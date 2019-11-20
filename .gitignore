@@ -3,12 +3,12 @@
 # dependencies
 /node_modules
 /.pnp
-.pnp.js
+.pnp.js/.idea
 
 # testing
 /coverage
 
-#.idea# production
+# production
 /build
 
 # misc
